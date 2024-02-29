@@ -1,3 +1,5 @@
+HTML
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -23,3 +25,43 @@
     
 </body>
 </html>
+
+CSS
+
+body{
+    font-family:Arial, sans-serif;
+    margin:0;
+    padding:0;
+    background-image:url('Abstract\ health\ medical\ science\ healthcare\ icon\ digital\ technology\ doctor\ concept\ modern\ innovation\,Treatment\,medicine\ on\ hi\ tech\ future\ blue\ background_\ for\ wallpaper\,\ template\,\ web\ design_\ \(1\).jpg');
+    background-size:cover;
+    color:white;
+}
+header{
+    background-color: rgba(0,0,0,0.5);
+    padding:20px;
+
+}
+main{
+    padding:20px;
+}
+section{
+    background-color: rgba(0,0,0,0.7);
+    padding:20px;
+    margin-bottom: 5px;
+}
+label{
+    display:block;
+    margin-bottom:5px;
+}
+input,select,button{margin-bottom: 10px;
+padding:5px;
+width:100%
+}
+button:hover{
+    background-color: #45a049;
+}
+#errorMsg{
+    color:red;
+    margin-bottom: 10px;
+}
+   
